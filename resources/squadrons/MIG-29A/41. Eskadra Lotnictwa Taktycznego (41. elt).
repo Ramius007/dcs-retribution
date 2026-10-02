@@ -1,0 +1,14 @@
+---
+name: 41. Eskadra Lotnictwa Taktycznego (41. elt)
+female_pilot_percentage: 1
+country: Poland
+role: Air Superiority Fighter
+aircraft: MiG-29A Fulcrum-A
+livery: Polish 41st Sqn Standard1
+mission_types:
+  - BARCAP
+  - TARCAP
+  - Escort
+  - Intercept
+  - Fighter sweep
+  - TARCAP
